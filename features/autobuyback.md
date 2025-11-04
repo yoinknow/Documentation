@@ -52,22 +52,28 @@ Finally, the **25% lifetime burn cap** prevents over-deflation while still allow
 {% endhint %}
 
 
-## � Benefits for Token Holders
+## 💰 Benefits for Token Holders
 
-### Price Stabilization
+{% hint style="success" %}
+**📈 Price Stabilization**
 - **Automatic support** during price drops
-- **Reduces volatility** through algorithmic intervention
+- **Reduces volatility** through algorithmic intervention  
 - **Creates price floor** based on treasury backing
+{% endhint %}
 
-### Supply Reduction
+{% hint style="info" %}
+**🔥 Supply Reduction**
 - **Permanently burns** purchased tokens
 - **Reduces circulating supply** over time
 - **Increases scarcity** for remaining holders
+{% endhint %}
 
-### Treasury Efficiency
+{% hint style="warning" %}
+**⚡ Treasury Efficiency**
 - **Utilizes accumulated fees** productively
 - **Provides value** back to token community
 - **No manual intervention** required
+{% endhint %}
 
 ## 📊 Monitoring & Transparency
 
