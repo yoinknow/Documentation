@@ -18,13 +18,13 @@ An intelligent system that automatically purchases and burns tokens from the tre
 
 {% hint style="warning" %}
 **📊 Buyback Triggers When:**
-- Current price falls below backing threshold (110% of backing value)
-- **OR** price drops below EMA threshold (95% of moving average)
+- Current price falls below backing threshold (250% of backing value)
+- **OR** price drops below EMA threshold (90% of moving average)
 - **AND** sufficient treasury funds are available
 - **AND** total burn limit hasn't been reached (25% max supply)
 
 **📈 Safety Guards:**
-- Maximum 10% of circulating supply per buyback
+- Maximum 40% of circulating supply per buyback
 - Minimum backing value required to prevent dust triggers
 - Emergency stop when 50% price drop occurs
 {% endhint %}
@@ -35,12 +35,16 @@ An intelligent system that automatically purchases and burns tokens from the tre
 
 | Parameter | Value | Purpose |
 |-----------|--------|---------|
-| **Backing Multiplier** | 110% (11000 bps) | Price threshold above backing value |
-| **EMA Drop Threshold** | 95% (9500 bps) | Moving average trigger level |
-| **EMA Smoothing** | 20% (2000 bps) | Price trend calculation weight |
-| **Treasury Spend** | 20% (2000 bps) | Portion of treasury used per buyback |
-| **Supply Cap** | 10% (1000 bps) | Maximum tokens bought per transaction |
+| **Backing Multiplier** | 250% (25000 bps) | Price threshold above backing value |
+| **EMA Drop Threshold** | 90% (9000 bps) | Moving average trigger level |
+| **EMA Response Speed** | 50% (5000 bps) | Price trend calculation weight |
+| **Treasury Spend** | 60% (6000 bps) | Portion of treasury used per buyback |
+| **Supply Cap** | 40% (4000 bps) | Maximum tokens bought per transaction |
 | **Max Burn Total** | 25% (2500 bps) | Lifetime burn limit of total supply |
+
+{% hint style="info" %}
+**💡 Parameter Balance:** These settings create sustainable long-term tokenomics by combining conservative trigger thresholds (250% backing, 90% EMA) with aggressive response actions (60% treasury spend, 40% supply cap). The high backing multiplier prevents frequent triggering during normal volatility, while substantial spending ensures meaningful impact when conditions warrant intervention. The 25% lifetime burn limit protects against excessive deflation while allowing significant supply reduction over time.
+{% endhint %}
 
 ### Process Flow
 
@@ -123,7 +127,7 @@ An intelligent system that automatically purchases and burns tokens from the tre
 - **EMA smoothing** reduces noise and false triggers
 
 ### Treasury Management
-- **Conservative spending** (20% per trigger maximum)
+- **Aggressive spending** (60% per trigger maximum)
 - **Multiple fallback mechanisms** if primary calculation fails
 - **Dust protection** prevents tiny, inefficient buybacks
 

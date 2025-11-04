@@ -18,14 +18,14 @@ A core deflationary mechanism that permanently removes tokens from circulation t
 
 {% hint style="success" %}
 **⚡ Automatic Burning When:**
-- Market price falls below backing threshold (110% of treasury backing)
-- **OR** price drops below EMA threshold (95% of moving average)
+- Market price falls below backing threshold (250% of treasury backing)
+- **OR** price drops below EMA threshold (90% of moving average)
 - **AND** sufficient treasury funds are available for buyback
 - **AND** total burn limit hasn't been reached (25% of total supply)
 
 **🛡️ Built-in Safety:**
 - Maximum 25% of total supply can ever be burned
-- Per-transaction limit of 10% of circulating supply
+- Per-transaction limit of 40% of circulating supply
 - Minimum backing requirements prevent dust burns
 {% endhint %}
 
@@ -36,8 +36,8 @@ A core deflationary mechanism that permanently removes tokens from circulation t
 | Component | Value | Purpose |
 |-----------|--------|---------|
 | **Max Total Burn** | 25% of supply (2500 bps) | Lifetime burn limit across all buybacks |
-| **Treasury Spend** | 20% per trigger (2000 bps) | Portion of treasury used for each buyback |
-| **Supply Cap** | 10% per transaction (1000 bps) | Maximum tokens burned in single buyback |
+| **Treasury Spend** | 60% per trigger (6000 bps) | Portion of treasury used for each buyback |
+| **Supply Cap** | 40% per transaction (4000 bps) | Maximum tokens burned in single buyback |
 | **Backing Floor** | Dynamic minimum | Prevents manipulation through dust triggers |
 
 ### Process Flow
