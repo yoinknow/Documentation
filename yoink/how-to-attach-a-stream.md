@@ -3,7 +3,7 @@
 
 <figure><img src="../.gitbook/assets/stream.png" alt=""><figcaption></figcaption></figure>
 
-Connect your Twitch stream to your token for real-time engagement and live trading activity. Streaming tokens get special visibility and help build stronger communities around your project.
+Connect a Twitch stream to your token for real-time engagement and live trading activity. Streaming tokens get special visibility and help build stronger communities around your project.
 
 ## Two Ways to Stream
 
