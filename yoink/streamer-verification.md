@@ -2,6 +2,9 @@
 
 Verify your identity as a streamer to claim your profile, build trust with your community, and unlock enhanced features on Yoink.
 
+
+<figure><img src="../.gitbook/assets/strps1.png" alt=""><figcaption></figcaption></figure>
+
 ## 🎯 How to Start Verification
 
 ### From Your Profile
@@ -44,6 +47,10 @@ Verify your identity as a streamer to claim your profile, build trust with your 
 
 ## 🔍 Verification Process
 
+
+<figure><img src="../.gitbook/assets/streps2.png" alt=""><figcaption></figcaption></figure>
+
+
 ### Step 1: Submit Request
 {% hint style="info" %}
 **What happens:**
@@ -56,13 +63,12 @@ Verify your identity as a streamer to claim your profile, build trust with your 
 ### Step 2: Provide Stream Proof
 {% hint style="warning" %}
 **Required during your stream:**
-- **Show your wallet address** on screen at the specified timestamp
-- **Say your Yoink username** clearly on audio
-- **Display both** wallet address and username simultaneously
-- **Keep proof visible** for at least 30 seconds
+- **Show your wallet address** on screen and let us know the timestamp
+- **Display both** wallet address 
+- **Keep proof visible** for at least 10 seconds
 
 **Example proof:**
-"Hi, I'm verifying my Yoink profile. My wallet address is GMkYowBJaCCgWMkzLPUImEJqG5qEJEbQGRWSxH and my username is 6MkYow"
+"Hi, I'm verifying my Yoink profile. My wallet address is GMkYowBJaCCgWMkzLPUImEJqG5qEJEbQGRWSxH and you can check it at 'streamlink' on time XX:XX:XX"
 {% endhint %}
 
 ### Step 3: Yoink Team Review
@@ -81,10 +87,6 @@ Verify your identity as a streamer to claim your profile, build trust with your 
 
 ### Verified Benefits
 - **Verification badge** ✓ on your profile
-- **Enhanced profile features** and visibility
-- **Community trust** and credibility
-- **Priority support** for platform issues
-- **Access to creator features** and tools
 - **Instant fee claims** - All stream-related fees become claimable immediately, including past earnings
 
 ### Profile Updates
@@ -93,66 +95,4 @@ Verify your identity as a streamer to claim your profile, build trust with your 
 - Enhanced earnings transparency unlocked
 - Full trading history becomes visible
 - **All historical stream fees** are instantly available for withdrawal
-
-## 🚨 Important Guidelines
-
-{% hint style="warning" %}
-**Verification Requirements:**
-
-**Before Submitting:**
-- ✅ You must be **actively streaming** when providing proof
-- ✅ Stream must be **publicly accessible** (not subscriber-only)
-- ✅ Audio and video quality must be **clear enough** for verification
-- ✅ You must **own the Twitch account** you're claiming
-
-**During Verification:**
-- ✅ Show proof **exactly at the timestamp** you specified
-- ✅ Keep both wallet address and username **visible simultaneously**
-- ✅ Speak clearly when stating your information
-- ✅ Don't edit or modify the stream during verification period
-
-**What Disqualifies:**
-- ❌ Claiming someone else's Twitch account
-- ❌ Using fake or edited proofs
-- ❌ Providing incorrect wallet addresses
-- ❌ Missing the specified timestamp
-- ❌ Poor quality audio/video that can't be verified
-{% endhint %}
-
-## 🛠️ Troubleshooting
-
-### Common Issues
-
-**"Stream Link Invalid"**
-- Verify your Twitch URL format is correct
-- Ensure your stream is currently live
-- Check that your channel is publicly accessible
-
-**"Timestamp Not Found"**
-- Make sure you showed proof at the exact time specified
-- Provide a buffer (show proof for 30+ seconds)
-- Double-check your timestamp format
-
-**"Verification Rejected"**
-- Review the rejection reason in your notification
-- Ensure all requirements were met during stream
-- Resubmit with clearer proof if needed
-
-**"Wallet Address Mismatch"**
-- Confirm you're using the same wallet that submitted the request
-- Don't switch wallets between submission and verification
-- Contact support if you need to update wallet address
-
-### Getting Help
-
-If you encounter issues:
-1. Check our [FAQ](../support/faq.md) for quick solutions
-2. Join [Discord](../support/socials.md) for community support  
-3. Contact [support](../support/contact.md) for verification help
-
----
-
-**Ready to verify?** Make sure you're streaming live, then find the "Link as Streamer" button on your profile!
-
-**Questions about the process?** Check out [Streamer Profiles](streamer-profiles.md) to understand verified vs unverified profiles
 
