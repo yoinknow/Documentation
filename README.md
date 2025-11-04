@@ -32,6 +32,10 @@ Yoink transforms creator content into tradable assets. Each token on Yoink is li
 **Creator-First Platform**: Every token on Yoink is tied to a real creator. When traders buy and sell, creators earn directly from trading fees. Any creator can verify ownership and claim their earnings at any time. Our goal is to build a **sustainable ecosystem** where creators thrive alongside their communities, with fair and healthy trading conditions.
 {% endhint %}
 
+{% hint style="success" %}
+**Buyer Benefits**: Buyers gain from automatic buybacks that create price floors, Early Bird rewards for early supporters, and the potential to profit from viral content speculation. The platform's built-in mechanics protect against downside risk while maximizing upside potential through community-driven trading and creator success.
+{% endhint %}
+
 ***
 
 **Website**: [yoink.now](https://yoink.now) | **Share**: [![Tweet](https://img.shields.io/twitter/url?style=social\&url=https%3A//yoink.now)](https://twitter.com/intent/tweet?text=Check%20out%20Yoink%20-%20the%20next-generation%20social%20token%20platform%20on%20Solana!\&url=https://yoink.now\&hashtags=Yoink,Solana,SocialTokens)
