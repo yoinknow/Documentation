@@ -2,6 +2,8 @@
 
 Trading coins on Yoink is simple — but understanding the core mechanics will help you make smarter decisions and maximize your potential returns.
 
+<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+
 ## What Are Coins?
 
 Coins are **SPL tokens** created on **Solana**, each typically tied to a real creator and their community. When you buy a coin, you're essentially betting on its potential — driven by the creator’s content quality, virality, community engagement, and overall market potential.  
@@ -19,7 +21,9 @@ As liquidity grows along the curve, you’ll see a **progress bar** on each toke
 
 ## What Happens at 100% Progress?
 
-When a token’s progress reaches **100%**, it **graduates** to the **Raydium DEX**. This marks a major milestone because:
+<figure><img src="../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
+
+When a token's progress reaches **100%**, it **graduates** to the **Raydium DEX**. This marks a major milestone because:
 
 * **Liquidity becomes permanently locked** on Raydium  
 * **Price discovery** enters a more open and mature market  
@@ -56,6 +60,8 @@ This mechanism provides downside protection while potentially increasing the val
 [Learn more about buybacks →](../features/buybacks.md)
 
 ### Slippage Control
+
+<figure><img src="../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
 
 **Slippage** is the difference between expected and actual trade prices. You can adjust this based on:
 
