@@ -37,7 +37,7 @@ Discover streamer profiles to learn about streamers, view their trading history,
 ## 🚨 Verification Process
 
 {% hint style="warning" %}
-**Important: Anyone can submit profiles, only Yoink verifies them**
+**Important: The streamer page doesn't necessary means the streamer knows about Yoink.**
 
 **📝 Unverified Profile**
 - Created by community members when using the streamer link
