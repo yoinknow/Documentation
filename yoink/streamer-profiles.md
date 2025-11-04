@@ -1,8 +1,10 @@
 # Streamer Profiles
 
-Discover creator profiles to learn about streamers, view their trading history, and explore their created tokens.
+Discover streamer profiles to learn about streamers, view their trading history, and explore their related tokens.
 
 ## 📊 What You'll See
+
+<figure><img src="../.gitbook/assets/streamerprofile.png" alt=""><figcaption></figcaption></figure>
 
 ### 👤 Profile Header
 {% hint style="info" %}
@@ -16,10 +18,10 @@ Discover creator profiles to learn about streamers, view their trading history, 
 
 | Metric | Description |
 |--------|-------------|
-| **Subscribers** | Followers of this streamer |
+| **Subscribers** | Followers of this streamer on Yoink |
 | **Total Volume** | All-time trading volume |
 | **Creator Revenue** | Earnings from tokens |
-| **Forked Coins** | Tokens created by streamer |
+| **Forked Coins** | Tokens created by others using this streamer |
 
 ### 🔖 Profile Tabs
 
@@ -32,43 +34,13 @@ Discover creator profiles to learn about streamers, view their trading history, 
 **🍴 Forked** - Connected/derivative projects
 {% endhint %}
 
-### Navigation Tabs
-
-The profile includes several tabs for different content types:
-
-**� Watchlist**
-- Tokens the streamer is actively monitoring
-- Shows investment interests and market focus
-
-**🪙 Coins**
-- All tokens created by this streamer
-- Displays "No Coins Created" if they haven't launched any tokens yet
-- Shows creation history and token performance
-
-**📈 Earnings**
-- Detailed revenue breakdown
-- Trading profits and creator earnings
-- Historical performance data
-
-**🎁 Donations**
-- Community support and tips received
-- Donation history and supporter recognition
-
-**🔄 CTO** (Create-Trade-Own)
-- Tokens where the streamer has significant ownership
-- Shows their investment portfolio
-
-**🍴 Forked**
-- Tokens the streamer has forked from existing streams
-- Display of connected or derivative projects
-
 ## 🚨 Verification Process
 
 {% hint style="warning" %}
 **Important: Anyone can submit profiles, only Yoink verifies them**
 
-**📝 Submitted Profile**
-- Created by community members
+**📝 Unverified Profile**
+- Created by community members when using the streamer link
 - May just represent the streamer with public info
 - Real creator might not be on platform
 
@@ -76,10 +48,8 @@ The profile includes several tabs for different content types:
 - Manually checked by Yoink team
 - Real streamer confirmed their presence  
 - Identity and ownership authenticated
+- Wallet address is now public
 
-**Always look for the verification badge before trusting a profile!**
 {% endhint %}
 
 ---
-
-**Ready to explore?** [Browse streamers →](https://app.yoink.fun) | **Want to verify?** [Learn how →](streamer-verification.md)
