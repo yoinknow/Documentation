@@ -21,11 +21,6 @@ Connect a Twitch stream to your token for real-time engagement and live trading 
 4. Click refresh button → auto-loads live stream information
 5. Create token → stream integration happens immediately
 
-✅ **Benefits:**
-- Real-time thumbnail updates when live
-- "LIVE" badge on token page  
-- Direct viewer traffic to your stream
-- Increased visibility in streaming section
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/createbutton.png" alt=""><figcaption></figcaption></figure>
@@ -42,20 +37,11 @@ Connect a Twitch stream to your token for real-time engagement and live trading 
 4. Set up streaming → use provided stream key or browser support
 5. Go live → directly on Yoink platform
 
-✅ **Benefits:**
-- Native Yoink chat integration
-- Built-in trading widgets during stream  
-- Platform-specific features
-- Full streaming control
 {% endhint %}
 
 {% hint style="warning" %}
 **⚠️ Important Decision:** If you attach a Twitch stream during token creation, you **cannot** start a direct Yoink stream later. 
 
-**Choose carefully:**
-- **Twitch Option** → Best if you already have an established Twitch audience
-- **Direct Option** → Best for new streamers or those wanting Yoink-native features
-{% endhint %}
 
 ## Platform Support
 
