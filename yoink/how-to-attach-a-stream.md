@@ -42,6 +42,7 @@ Connect a Twitch stream to your token for real-time engagement and live trading 
 {% hint style="warning" %}
 **⚠️ Important Decision:** If you attach a Twitch stream during token creation, you **cannot** start a direct Yoink stream later. 
 
+{% endhint %}
 
 ## Platform Support
 
