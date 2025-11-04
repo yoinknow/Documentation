@@ -63,13 +63,3 @@ This mechanism provides downside protection while potentially increasing the val
 * **Large trades**: May need 5-10% slippage  
 * **Low liquidity tokens**: Higher slippage required
 * **High volume periods**: Lower slippage possible
-
-
-### Market Cap Understanding
-
-**Market cap** shows the total value of all tokens. This helps you understand:
-
-* **Small market cap**: Higher growth potential, higher risk
-* **Large market cap**: More established, typically less volatile
-* **Growth trajectory**: Compare with similar creators
-
