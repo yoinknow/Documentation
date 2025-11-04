@@ -18,6 +18,8 @@ layout:
 
 # 📊 Bonding Curve
 
+<figure><img src="../.gitbook/assets/curve.jpg" alt=""><figcaption></figcaption></figure>
+
 Understanding Yoink's bonding curve is essential for successful trading. This automated market-making system determines token prices, provides instant liquidity, and creates a fair launch mechanism for all creator tokens.
 
 ## What is a Bonding Curve?
@@ -29,7 +31,6 @@ A **bonding curve** is a mathematical formula that automatically determines toke
 * **No rug pulls** - Liquidity can't be removed by creators
 * **Automatic market making** - No need for manual liquidity provision
 
-<figure><img src="../.gitbook/assets/curve.jpg" alt=""><figcaption></figcaption></figure>
 
 ## The Mathematical Formula
 
