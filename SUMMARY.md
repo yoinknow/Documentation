@@ -23,7 +23,17 @@
 * [🔥 Constant Burn](features/constant-burn.md)
 * [🪑 Early Seats](features/early-seats.md)
 
-## 💎 $YOINK
+## 🔧 SDK & Integrations
+
+* [📦 SDK Overview](sdk/overview.md)
+* [⚡ Quick Start](sdk/installation.md)
+* [🎯 Usage Guide](sdk/usage.md)
+* [🤖 Creator Token Trading Bot](sdk/creator-token-bot.md)
+* [📊 Portfolio Analytics Dashboard](sdk/portfolio-dashboard.md)
+* [🎥 Stream Monitor & Token Launcher](sdk/stream-monitor.md)
+* [📈 Creator Analytics & Insights](sdk/creator-analytics.md)
+
+## �💎 $YOINK
 
 * [🚀 How it Launched](yoink-token/how-it-launched.md)
 * [🗺️ Roadmap](yoink-token/roadmap.md)
