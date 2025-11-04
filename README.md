@@ -38,7 +38,7 @@ Yoink transforms creator content into tradable assets. Each token on Yoink is li
 
 ***
 
-**Website**: [yoink.now](https://yoink.now) | **Share**: [![Tweet](https://img.shields.io/twitter/url?style=social\&url=https%3A//yoink.now)](https://twitter.com/intent/tweet?text=Check%20out%20Yoink%20-%20the%20next-generation%20social%20token%20platform%20on%20Solana!\&url=https://yoink.now\&hashtags=Yoink,Solana,SocialTokens)
+**Website**: [yoink.now](https://yoink.now) | **Twitter**: [YoinkNow](https://x.com/YoinkNow) 
 
 ***
 
