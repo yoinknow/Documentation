@@ -7,6 +7,8 @@ Connect a Twitch stream to your token for real-time engagement and live trading 
 
 ## 🎯 Two Ways to Stream
 
+<figure><img src="../.gitbook/assets/stepstream1.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 **🔀 Option 1: Fork Existing Twitch Stream** *(During Token Creation)*
 
@@ -26,9 +28,9 @@ Connect a Twitch stream to your token for real-time engagement and live trading 
 - Increased visibility in streaming section
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/stepstream1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/createbutton.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="success" %}
+{% hint style="info" %}
 **🎬 Option 2: Start Direct Yoink Stream** *(After Token Creation)*
 
 **When to choose:** You want native Yoink features and full platform control
@@ -46,8 +48,6 @@ Connect a Twitch stream to your token for real-time engagement and live trading 
 - Platform-specific features
 - Full streaming control
 {% endhint %}
-
-<figure><img src="../.gitbook/assets/createbutton.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **⚠️ Important Decision:** If you attach a Twitch stream during token creation, you **cannot** start a direct Yoink stream later. 
