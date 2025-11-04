@@ -1,30 +1,33 @@
 # 📈 How to Trade
 
-Trading creator tokens on Yoink is simple, but understanding the core concepts will help you make better decisions and maximize your returns.
+Trading coins on Yoink is simple — but understanding the core mechanics will help you make smarter decisions and maximize your potential returns.
 
-## What Are Creator Tokens?
+## What Are Coins?
 
-Creator tokens represent real creators and their communities. When you buy a creator token, you're betting on that creator's growth, content quality, and community engagement. Every trade generates fees that benefit both creators and Early Bird holders.
+Coins are **SPL tokens** created on **Solana**, each typically tied to a real creator and their community. When you buy a coin, you're essentially betting on its potential — driven by the creator’s content quality, virality, community engagement, and overall market potential.  
+Every trade generates fees that reward both the creator and Early Bird holders, while traders aim to earn returns through price movements and market activity.
 
-## The Bonding Curve Journey
 
-Every new token starts on a **bonding curve** - a mathematical formula that determines the price based on how many tokens have been sold:
+## The Bonding Curve
 
-* **Early buyers** get lower prices
-* **Price increases** automatically as more people buy
-* **Progress bar** shows how close the token is to "graduation"
+When you create a coin on Yoink, it’s deployed under our smart contract, which automatically generates an **AMM (Automated Market Maker)** powered by a **bonding curve**.  
+This mechanism ensures that the token **can’t be rugged or have its liquidity pulled**, providing strong protection for traders.  
+
+The bonding curve manages all trading activity for both buyers and sellers through its **on-chain pricing logic**, keeping the token’s market value accurate and transparent.  
+As liquidity grows along the curve, you’ll see a **progress bar** on each token — showing its completion from **0% to 100%**.
+
 
 ## What Happens at 100% Progress?
 
-When the progress reaches 100%, the token **graduates** to Raydium DEX. This is a major milestone because:
+When a token’s progress reaches **100%**, it **graduates** to the **Raydium DEX**. This marks a major milestone because:
 
-* **Liquidity is locked** permanently on Raydium
-* **Trading volume** typically increases significantly  
-* **Price discovery** becomes more mature
-* **Token becomes** part of the broader Solana ecosystem
+* **Liquidity becomes permanently locked** on Raydium  
+* **Price discovery** enters a more open and mature market  
+* **Trading volume** often increases significantly  
+* The **token integrates fully** into the broader **Solana ecosystem**
 
 {% hint style="success" %}
-Graduation is generally positive for token holders as it provides permanent liquidity and wider market access.
+Graduation is a positive milestone for token holders — it ensures permanent liquidity, greater exposure, and access to a larger trading community.
 {% endhint %}
 
 ## Early Bird Rewards
@@ -37,7 +40,20 @@ The first 20 buyers of any token become **Early Birds** and receive ongoing bene
 
 Once you sell your tokens, you lose Early Bird status forever.
 
-## Trading Essentials
+[Learn more about Early Bird rewards →](../traders/early-bird-bonus.md)
+
+## Buyback Mechanics
+
+Yoink features an **automatic buyback system** that creates price floors and supports token values:
+
+* **Trading fees accumulate** in a treasury for each token
+* **Automatic buybacks** trigger when treasury reaches certain thresholds
+* **Bought tokens are burned**, permanently reducing supply
+* **Price support** helps protect against major downturns
+
+This mechanism provides downside protection while potentially increasing the value of remaining tokens through supply reduction.
+
+[Learn more about buybacks →](../features/buybacks.md)
 
 ### Slippage Control
 
@@ -48,13 +64,6 @@ Once you sell your tokens, you lose Early Bird status forever.
 * **Low liquidity tokens**: Higher slippage required
 * **High volume periods**: Lower slippage possible
 
-### Price Impact
-
-Before confirming trades, you'll see the **price impact** - how much your trade will move the token price. Generally:
-
-* **Under 2%**: Good trade size
-* **2-5%**: Moderate impact, still acceptable
-* **Over 5%**: Large impact, consider splitting the trade
 
 ### Market Cap Understanding
 
@@ -64,66 +73,3 @@ Before confirming trades, you'll see the **price impact** - how much your trade 
 * **Large market cap**: More established, typically less volatile
 * **Growth trajectory**: Compare with similar creators
 
-## Trading Psychology
-
-### When to Buy
-
-Consider buying when:
-
-* You believe in the creator's long-term potential
-* The token has healthy trading volume
-* You can secure an Early Bird spot
-* The community is active and growing
-
-### When to Sell
-
-Consider selling when:
-
-* Your investment goals are met
-* The creator becomes inactive
-* Better opportunities arise
-* You need to manage risk
-
-{% hint style="warning" %}
-Remember: Selling means losing Early Bird status forever if you have it.
-{% endhint %}
-
-## Risk Management
-
-* **Start small** until you understand the platform
-* **Never invest** more than you can afford to lose
-* **Diversify** across multiple tokens
-* **Research creators** before investing
-* **Monitor** your positions regularly
-
-## Key Metrics to Watch
-
-| Metric | Why It Matters |
-|--------|----------------|
-| **Progress %** | Shows how close to graduation |
-| **24h Volume** | Indicates trading activity |
-| **Holder Count** | Shows community size |
-| **Early Bird Spots** | Available reward positions |
-| **Creator Activity** | Streaming schedule and engagement |
-
-## Common Concepts
-
-### Buybacks
-
-Automatic buybacks create price floors and reduce supply, generally supporting token prices over time.
-
-### Burn Mechanism
-
-When buybacks happen, tokens are permanently removed from circulation, making remaining tokens potentially more valuable.
-
-### Real-time Updates
-
-Prices and charts update in real-time, so you always see current market conditions.
-
-## Getting Started
-
-The best way to learn is to start small and experiment with different tokens. Focus on creators you know and understand, and remember that trading is about patience and research, not quick profits.
-
-{% hint style="info" %}
-**New to trading?** Start with small amounts and creators you already follow. This helps you understand the platform while minimizing risk.
-{% endhint %}
