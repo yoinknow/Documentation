@@ -61,46 +61,6 @@ Once connected, you'll be able to:
 
 ✅ Claim rewards (if you're a creator)
 
-## Security Best Practices
-
-### Keep Your Wallet Safe:
-
-* Never share your seed phrase with anyone
-* Always verify you're on the correct website (yoink.now)
-* Use hardware wallets for large amounts
-* Be cautious of phishing attempts
-
-### Disconnecting Your Wallet
-
-To disconnect your wallet:
-
-1. Click your wallet address in the top right
-2. Select "Disconnect" from the menu
-3. Your wallet will be disconnected immediately
-
-## Troubleshooting
-
-### Connection Failed
-
-If you're having trouble connecting:
-
-* Refresh the page and try again
-* Clear your browser cache
-* Update your wallet extension to the latest version
-* Try a different browser (Chrome recommended)
-
-### Wrong Network
-
-Make sure your wallet is set to Solana Mainnet. Yoink operates on Solana mainnet, not devnet or testnet.
-
-### Transaction Errors
-
-If transactions fail:
-
-* Ensure you have enough SOL for transaction fees (0.001-0.01 SOL)
-* Check your wallet is properly connected
-* Wait a few seconds and try again
-
 ## Need Help?
 
 Still having issues? Visit our [Troubleshooting Guide](../support/troubleshooting.md) or [Contact Support](../support/contact.md).
