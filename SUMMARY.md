@@ -9,8 +9,8 @@
 
 ## 🚀 Yoink
 
+* [� Bonding Curve](yoink/bonding-curve.md)
 * [📈 How to Trade](yoink/how-to-trade.md)
-* [🎓 What is Graduation](yoink/what-is-graduation.md)
 * [🪙 How to Create a Coin](yoink/how-to-create-a-coin.md)
 * [📺 How to Attach a Stream](yoink/how-to-attach-a-stream.md)
 * [👤 Streamer Profiles](yoink/streamer-profiles.md)
