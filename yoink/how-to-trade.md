@@ -36,17 +36,24 @@ Graduation is a positive milestone for token holders — it ensures permanent li
 
 ## Early Bird Rewards
 
+{% hint style="success" %}
+**🐦 Early Bird Benefits**
+
 The first 20 buyers of any token become **Early Birds** and receive ongoing benefits:
 
 * **Fee sharing** from all trades on that token
 * **Exclusive status** that can't be bought later
 * **Passive income** as long as you hold your tokens
 
-Once you sell your tokens, you lose Early Bird status forever.
+⚠️ **Important**: Once you sell your tokens, you lose Early Bird status forever.
 
 [Learn more about Early Bird rewards →](../traders/early-bird-bonus.md)
+{% endhint %}
 
 ## Buyback Mechanics
+
+{% hint style="info" %}
+**💰 Automatic Buyback System**
 
 Yoink features an **automatic buyback system** that creates price floors and supports token values:
 
@@ -58,6 +65,7 @@ Yoink features an **automatic buyback system** that creates price floors and sup
 This mechanism provides downside protection while potentially increasing the value of remaining tokens through supply reduction.
 
 [Learn more about buybacks →](../features/buybacks.md)
+{% endhint %}
 
 ### Slippage Control
 
