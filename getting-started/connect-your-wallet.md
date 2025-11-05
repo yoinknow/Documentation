@@ -63,4 +63,4 @@ Once connected, you'll be able to:
 
 ## Need Help?
 
-Still having issues? Visit our [Troubleshooting Guide](../support/troubleshooting.md) or [Contact Support](../support/contact.md).
+Still having issues? Join our [Community](../support/socials.md) for help.

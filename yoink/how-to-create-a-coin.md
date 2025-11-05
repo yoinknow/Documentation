@@ -69,7 +69,7 @@ Your coin goes live immediately with:
 
 ---
 
-**Need help?** Check our [FAQ](../support/faq.md) or join [Discord](../support/socials.md) for support.
+**Need help?** Join [Community](../support/socials.md) for support.
 
 **Ready to start?** [Create your coin now →](https://app.yoink.fun/create-coin)
 

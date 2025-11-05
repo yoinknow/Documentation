@@ -461,8 +461,6 @@ main().catch(console.error);
 
 ## Next Steps
 
-- [� Portfolio Analytics Dashboard](portfolio-dashboard.md)
-- [🎥 Stream Monitor & Token Launcher](stream-monitor.md)
-- [📈 Creator Analytics & Insights](creator-analytics.md)
+- [📦 SDK Overview](overview.md)
 - [📖 Read the full Usage Guide](usage.md)
-- [❓ Check the FAQ](../support/faq.md)
+- [🌐 Join Community](../support/socials.md)

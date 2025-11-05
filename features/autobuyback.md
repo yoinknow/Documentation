@@ -4,7 +4,7 @@ Yoink features an **algorithmic buyback mechanism** for all coins created on the
 When market conditions are favorable, the system automatically purchases and burns tokens using the **treasury pool**, helping to stabilize prices and reduce circulating supply.  
 
 This mechanism supports long-term **token health and sustainability**, ensuring a more stable experience for traders.  
-**Treasury pools grow over time** through the fees accumulated from trading volume (see the [Fees](fees.md) page for details).
+**Treasury pools grow over time** through the fees accumulated from trading volume.
 
 
 ## 🎯 How Autobuyback Works

@@ -9,7 +9,7 @@
 
 ## 🚀 Yoink
 
-* [� Bonding Curve](yoink/bonding-curve.md)
+* [📈 Bonding Curve](yoink/bonding-curve.md)
 * [📈 How to Trade](yoink/how-to-trade.md)
 * [🪙 How to Create a Coin](yoink/how-to-create-a-coin.md)
 * [📺 How to Attach a Stream](yoink/how-to-attach-a-stream.md)
@@ -28,9 +28,6 @@
 * [⚡ Quick Start](sdk/installation.md)
 * [🎯 Usage Guide](sdk/usage.md)
 * [🤖 Example - Trading Bot](sdk/creator-token-bot.md)
-* [📊 Portfolio Analytics Dashboard](sdk/portfolio-dashboard.md)
-* [🎥 Stream Monitor & Token Launcher](sdk/stream-monitor.md)
-* [📈 Creator Analytics & Insights](sdk/creator-analytics.md)
 
 ## �💎 $YOINK
 
@@ -38,18 +35,6 @@
 * [🗺️ Roadmap](usdyoink/roadmap.md)
 * [💰 Constant Buyback](usdyoink/constant-buyback.md)
 
-## 🏆 Leaderboards
-
-* [🏅 Leaderboards](traders/leaderboards.md)
-* [💸 Fee System](tokenomics/fees.md)
-* [🧮 How Fees are Obtained](getting-started/fee-distribution.md)
-
-## 🌐 Socials
+## 🌐 Community
 
 * [🔗 Community Links](support/socials.md)
-
-## Support
-
-* [FAQ](support/faq.md)
-* [Troubleshooting](support/troubleshooting.md)
-* [Contact Us](support/contact.md)

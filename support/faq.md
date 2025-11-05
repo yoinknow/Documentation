@@ -77,8 +77,6 @@ No! Yoink is designed for beginners:
 * 40% to Early Birds (20 holders)
 * 20% to Treasury (buybacks & operations)
 
-[Full fee breakdown →](../tokenomics/fees.md)
-
 ### Can I sell anytime?
 
 **Yes** - bonding curve provides instant liquidity. BUT if you're an Early Bird, selling forfeits your seat permanently.
