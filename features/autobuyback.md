@@ -9,6 +9,10 @@ This mechanism supports long-term **token health and sustainability**, ensuring 
 
 ## 🎯 How Autobuyback Works
 
+
+
+<figure><img src="../.gitbook/assets/burnandbuyback.png" alt=""><figcaption></figcaption></figure>
+
 ### Smart Price Detection
 
 {% hint style="info" %}
@@ -79,6 +83,9 @@ Finally, the **25% lifetime burn cap** prevents over-deflation while still allow
 
 ### Buyback Activity Tab
 
+
+<figure><img src="../.gitbook/assets/b2.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 **📈 Track Buybacks on Token Pages:**
 - Each coin page includes a dedicated **"Buybacks" tab**
@@ -90,27 +97,24 @@ Finally, the **25% lifetime burn cap** prevents over-deflation while still allow
 - **Burn transactions** are fully visible on Solana blockchain
 - **Buy operations** happen internally within the program
 - Only the burn will show as an external transaction
-- The "purchase" is actually an internal ledger update
+- The buyback "purchase" is actually an internal ledger update
 {% endhint %}
 
 ### Internal Mechanics Explained
 
 {% hint style="warning" %}
-**🔄 How the "Buy" Works Internally:**
-- SOL moves from treasury vault to bonding curve liquidity pool
-- Token quotation changes to reflect increased SOL reserves
-- **No actual SOL leaves the bonding curve** - it's an internal transfer
-- This creates tokens for burning without external market impact
-- Result: Treasury balance decreases, curve liquidity increases, tokens get burned
+**🔄 How the "Buyback" Works Internally — and Why There’s No Visible SOL Inflow on Solana Explorer:**
+- SOL moves internally from the **treasury vault** to the **bonding curve liquidity pool**  
+- The token quotation updates to reflect the increased SOL reserves  
+- **No actual SOL leaves the bonding curve** — it’s simply an internal transfer between vaults (treasury → AMM vault)  
+- **Result:** Treasury balance decreases, curve liquidity increases, and tokens are burned  
 
-**💡 Why You Only See Burns:**
-- The purchase is an internal AMM ledger adjustment
-- No external buy/sell pressure on the market
-- Only the final burn transaction appears on-chain
-- This maintains price stability during buyback operations
+**💡 Why You Only See Burns on Solan Explorer:**
+- The “purchase” is recorded as an internal AMM ledger adjustment  
+- Only the final **burn transaction** appears on-chain, since SOL never leaves the bonding curve account — it’s just reallocated between internal vaults
 {% endhint %}
+
 
 **🔥 Autobuyback is enabled by default** for all tokens and operates automatically without any user intervention required.
 
-**📊 Monitor your token's buyback activity** on the token page to see real-time burn statistics and treasury utilization.
 
