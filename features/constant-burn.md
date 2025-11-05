@@ -31,21 +31,19 @@ This core **deflationary mechanism** permanently removes tokens from circulation
 | Component | Value | Purpose |
 |-----------|--------|---------|
 | **Max Total Burn** | 25% of supply (2,500 bps) | Lifetime burn limit across all buybacks |
-| **Treasury Spend** | 60% per trigger (6,000 bps) | Portion of treasury used for each buyback |
 | **Supply Cap** | 40% per transaction (4,000 bps) | Maximum tokens burned in a single buyback |
-| **Backing Floor** | Dynamic minimum | Prevents manipulation through dust triggers |
 
 ### Process Flow
 
 {% hint style="warning" %}
 **🧠 Step 1: Algorithm Decision**  
-- Price falls below one or more **trigger thresholds**  
+- Price falls below one or more **trigger thresholds from buybacks**  
 - The **treasury** has sufficient funds for a meaningful buyback  
 - The **total burn limit** has not been exceeded  
 - **All purchased tokens are immediately burned** as part of the buyback process  
 
 **🔥 Step 2: Supply Impact**  
-- Permanently reduces both **virtual and real token reserves**  
+- Permanently reduces **the token reserves on the curve**  
 - Decreases **circulating supply** tracked on-chain  
 - Creates **deflationary pressure** for remaining holders
 {% endhint %}
@@ -61,13 +59,10 @@ This core **deflationary mechanism** permanently removes tokens from circulation
 - Total tokens burned through all buybacks  
 - Treasury funds spent on burn activities  
 - Burn frequency and market timing  
-- Remaining burn capacity (25% limit tracking)  
-- Current circulating supply  
 
 **🔗 Public Verification:**
 - All burn transactions are visible on the **Solana blockchain**  
 - Treasury balances are auditable in real time  
-- Burn statistics are permanently recorded in the **smart contract**  
 - Complete transaction history available with before/after states  
 {% endhint %}
 
