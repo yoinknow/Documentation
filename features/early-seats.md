@@ -21,7 +21,7 @@ All fees allocated to the **Early Bird Pool** (see [Fees Settings](fees.md)) are
 
 ### Pool Growth Mechanics
 
-{% hint style="success" %}
+{% hint style="info" %}
 **📈 Pool Accumulation Process:**
 - **Trading volume**: More trades = larger Early Bird pool
 - **Fee percentage**: Every trade contributes to Early Bird Pool
