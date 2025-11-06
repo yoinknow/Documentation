@@ -83,7 +83,7 @@ Buyback triggers when **current token price drops 10% below the EMA trend line**
 - **No actual SOL leaves the bonding curve** — it’s simply an internal transfer between vaults (treasury → AMM vault)  
 - **Result:** Treasury balance decreases, curve liquidity increases, and tokens are burned  
 
-**💡 Why You Only See Burns on Solan Explorer:**
+**💡 Why You Only See Burns on Solana Explorer:**
 - The “purchase” is recorded as an internal AMM ledger adjustment  
 - Only the final **burn transaction** appears on-chain, since SOL never leaves the bonding curve account — it’s just reallocated between internal vaults
 {% endhint %}

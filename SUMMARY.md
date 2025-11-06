@@ -2,6 +2,7 @@
 
 * [🏠 Welcome to Yoink](README.md)
 * [⚡ Quickstart](getting-started/quickstart.md)
+* [🌐 Community Links](support/socials.md)
 
 ## Concepts
 
@@ -11,6 +12,7 @@
 * [📺 How to Attach a Stream](yoink/how-to-attach-a-stream.md)
 * [👤 Streamer Profiles](yoink/streamer-profiles.md)
 * [✅ Streamer Verification](yoink/streamer-verification.md)
+* [💰 Fees](yoink/fees.md)
 
 ## Mechanics
 
@@ -30,7 +32,3 @@
 * [🚀 How $YOINK Launched](usdyoink/how-it-launched.md)
 * [🗺️ $YOINK Roadmap](usdyoink/roadmap.md)
 * [♻️ $YOINK Flywheel](usdyoink/constant-buyback.md)
-
-***
-
-* [🌐 Community Links](support/socials.md)
