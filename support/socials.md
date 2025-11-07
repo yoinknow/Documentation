@@ -6,7 +6,7 @@ Connect with the Yoink community through our official channels. Stay updated on 
 
 ---
 
-## � Official Website
+##  Official Website
 
 **[yoink.now](https://yoink.now)**
 

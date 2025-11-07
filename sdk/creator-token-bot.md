@@ -358,7 +358,7 @@ async function main() {
   
   const bot = new BondingCurveTradingBot(keypair, {
     targetTokens: [
-      "HxoYv3DiAaUVhsRaficwm5B8dyk2ShnUZHRHxu62G3gM",
+      "9BSxAV9iRuiT3W7kwhFEkmzfoMo7xZTBdFGRF793JRbC",
       // Add more token mints to monitor
     ],
     
