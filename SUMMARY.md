@@ -31,3 +31,4 @@
 
 * [🚀 How $YOINK Launched](usdyoink/how-it-launched.md)
 * [♻️ $YOINK Flywheel](usdyoink/yoink-flywheel.md)
+* [🔒 $YOINK Vesting](usdyoink/yoink-vesting.md)
