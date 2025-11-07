@@ -36,4 +36,4 @@ Follow us for:
 ---
 
 
-**🚀 Join us in building the future of attention capital markets!**
+**🚀 Join us in building the future of virality capital markets!**

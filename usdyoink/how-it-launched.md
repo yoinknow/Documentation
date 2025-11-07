@@ -1,7 +1,7 @@
 # 🚀 How $YOINK Launched
 
 
-**The internet finally has a market for attention.**
+**The internet finally has a market for virality.**
 
 Yoink is a next-generation **virality capital markets platform** on Solana. We're not another memecoin launchpad—we're the evolution of Creator Capital Markets (CCM), transforming viral moments into liquid, tradable assets.
 
@@ -47,7 +47,7 @@ Yoink is a next-generation **virality capital markets platform** on Solana. We'r
 Every trade on the platform fuels a powerful cycle:
 
 {% hint style="warning" %}
-### ⚡ The Attention Economy, Captured
+### ⚡ The Virality Economy, Captured
 
 ```
 🌟 Virality 
@@ -74,7 +74,7 @@ Every viral moment, every clip, every creator—forever tradable, forever valuab
 ## 🎯 Why We Launched on Pump.fun
 
 {% hint style="info" %}
-We launched $YOINK on **pump.fun** because that's where the attention was at time of launch.
+We launched $YOINK on **pump.fun** because that's where the virality was at time of launch.
 
 Simple as that. Meet traders where they are, capture the eyeballs, build the community.
 
@@ -94,7 +94,7 @@ Yoink is unlocking a **new age of Creator Capital Markets** in the Solana trench
 
 #### We're building the infrastructure to:
 
-✅ **Make attention and virality a tradable asset class**  
+✅ **Make virality a tradable asset class**  
 ✅ **Reward creators directly from market activity**  
 ✅ **Create sustainable token economies with built-in protection for traderrs**  
 ✅ **Bridge social platforms and DeFi seamlessly**
@@ -108,4 +108,4 @@ Yoink is unlocking a **new age of Creator Capital Markets** in the Solana trench
 
 ## 📚 Next Steps
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>♻️ $YOINK Flywheel</strong></td><td>How platform fees power $YOINK buybacks</td><td><a href="constant-buyback.md">constant-buyback.md</a></td></tr><tr><td><strong>📈 Trade Content</strong></td><td>Begin trading on Yoink platform</td><td><a href="../yoink/how-to-trade.md">how-to-trade.md</a></td></tr><tr><td><strong>💰 Fee Structure</strong></td><td>Understand how fees work on Yoink</td><td><a href="../yoink/fees.md">fees.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>♻️ $YOINK Flywheel</strong></td><td>How platform fees power $YOINK buybacks</td><td><a href="yoink-flywheel.md">yoink-flywheel.md</a></td></tr><tr><td><strong>📈 Trade Content</strong></td><td>Begin trading on Yoink platform</td><td><a href="../yoink/how-to-trade.md">how-to-trade.md</a></td></tr><tr><td><strong>💰 Fee Structure</strong></td><td>Understand how fees work on Yoink</td><td><a href="../yoink/fees.md">fees.md</a></td></tr></tbody></table>

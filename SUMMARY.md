@@ -30,4 +30,4 @@
 ## $YOINK
 
 * [🚀 How $YOINK Launched](usdyoink/how-it-launched.md)
-* [♻️ $YOINK Flywheel](usdyoink/constant-buyback.md)
+* [♻️ $YOINK Flywheel](usdyoink/yoink-flywheel.md)
